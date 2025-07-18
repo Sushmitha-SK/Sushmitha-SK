@@ -5,11 +5,8 @@
   <a href="https://sushmithas-personal-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=vercel" />
   </a>
-  <a href="mailto:sushmithadeveloper@gmail.com" target="_blank">
+  <a href="mailto:sushmitaudupi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/sushmithadeveloper" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
 
@@ -21,7 +18,7 @@
 
 💬 Ask me about **React, JavaScript, HTML/CSS, and Web Performance**
 
-📫 How to reach me: **sushmithadeveloper@gmail.com**
+📫 How to reach me: **sushmitaudupi@gmail.com**
 
 📄 Know more about me: [My Portfolio](https://sushmithas-personal-portfolio.vercel.app)
 
