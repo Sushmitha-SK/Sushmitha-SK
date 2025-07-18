@@ -44,8 +44,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushmithadeveloper&show_icons=true&theme=radical" alt="sushmithadeveloper stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushmithadeveloper&theme=radical" alt="sushmithadeveloper streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sushmitha-SK&show_icons=true&theme=radical" alt="Sushmitha-SK stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushmitha-SK&theme=radical" alt="Sushmitha-SK streak" />
 </p>
 
 ---
@@ -53,7 +53,6 @@
 ### ✨ Projects
 
 - 🎯 [Portfolio Website](https://sushmithas-personal-portfolio.vercel.app)
-- 🧮 Add links to your live projects or GitHub repos here!
 
 ---
 
