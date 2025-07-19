@@ -4,7 +4,7 @@
 
 ---
 
-🎯 **Frontend Developer** focused on building dynamic, responsive, and user-friendly web applications. Experienced in React, Next.js, TypeScript, and Tailwind CSS. Former software tester turned UI engineer, passionate about clean code and great user experiences.
+🎯 **Frontend Developer** focused on building dynamic, responsive, and user-friendly web applications. Skilled in React, Next.js, TypeScript, and Tailwind CSS. Passionate about clean code, pixel-perfect designs, and delivering seamless user experiences.
 
 ---
 
