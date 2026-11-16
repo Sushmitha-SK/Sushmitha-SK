@@ -124,6 +124,12 @@ Before writing code full-time, I worked as a software tester at Robosoft Technol
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushmitha-SK&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sushmitha-SK&theme=radical&background=0D1117&hide_border=true" />
+</p>
+
+
+
 ---
 
 ### 📫 Let's Connect
